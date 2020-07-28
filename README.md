@@ -1,4 +1,4 @@
-# Project_PopLegal
+# Project: PopLegal
 
 **Made by Team:**
 
@@ -16,8 +16,12 @@ PopLegal is an mobile-based application that aims to provide legal consultation 
 
 **UI Design:**
 
-| Splash Screen | Main Menu | Saved Place |
+| Splash Screen | Prompt | Login |
 | ----------- | ----------- | ----------- |
-| ![](/ui_prototype/splash_screen.jpg) | ![](/ui_prototype/main_menu.jpg) | ![](/ui_prototype/saved_place.jpg) |
-| Select Destination | Select Transportation | Navigation |
-| ![](/ui_prototype/destination_screen.jpg) | ![](/ui_prototype/select_transportation.jpg) | ![](/ui_prototype/navigation.jpg) |
+| ![](/ui_prototype/1_splash_screen.png) | ![](/ui_prototype/2_prompt.png) | ![](/ui_prototype/3_login.png) |
+| Sign Up | Choose Service | Select an Advocate/Notary |
+| ![](/ui_prototype/4_sign_up.png) | ![](/ui_prototype/5_choose_service.png) | ![](/ui_prototype/6_select_advocatenotary.png) |
+| Overview | Overview (scrolled) | Chat |
+| ![](/ui_prototype/7_overview.png) | ![](/ui_prototype/8_overview(scrolled).png) | ![](/ui_prototype/9_chat.png) |
+| Feedback |  |  |
+| ![](/ui_prototype/10_feedback.png) |   |  |
