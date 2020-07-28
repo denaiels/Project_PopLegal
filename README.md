@@ -1,6 +1,6 @@
 # Project: PopLegal
 
-**Made by Team:**
+**Made by:**
 
 Daniel Santoso (2201756506)
 
