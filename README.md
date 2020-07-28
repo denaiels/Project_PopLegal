@@ -23,5 +23,5 @@ PopLegal is an mobile-based application that aims to provide legal consultation 
 | ![](/ui_prototype/4_sign_up.png) | ![](/ui_prototype/5_choose_service.png) | ![](/ui_prototype/6_select_advocatenotary.png) |
 | Overview | Overview (scrolled) | Chat |
 | ![](/ui_prototype/7_overview.png) | ![](/ui_prototype/8_overview(scrolled).png) | ![](/ui_prototype/9_chat.png) |
-| Feedback |  |  |
-| ![](/ui_prototype/10_feedback.png) |   |  |
+| Feedback |
+| ![](/ui_prototype/10_feedback.png) |
